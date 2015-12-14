@@ -1,0 +1,1 @@
+call catalina.bat jpda start
